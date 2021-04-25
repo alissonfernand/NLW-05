@@ -1,3 +1,4 @@
+import { useNavigation } from '@react-navigation/core';
 import React, { useState } from 'react';
 import { 
   KeyboardAvoidingView,
@@ -16,6 +17,12 @@ import fonts from '../styles/fonts';
 
 
 const Confirmation = () => {
+  const navigation = useNavigation();
+
+  function handleModeOn() {
+    navigation.navigate('PlantSelect')
+  }
+
   return(
     <SafeAreaView style={styles.container}>
      
@@ -28,7 +35,7 @@ const Confirmation = () => {
         <Text style={styles.subtitle}> Agora vamos começar a cuidar das suas plantinhas com muito cuidado.</Text>
 
         <View style={styles.btn}>
-          <Button title="Confirmar" />
+          <Button title="Confirmar" onPress={handleModeOn}/>
         </View>
     </SafeAreaView>
   );
