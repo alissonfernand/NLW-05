@@ -10,3 +10,5 @@ export default api;
  * script pra usar json-serve
  * json-server ./plantmanager/src/services/server.json --host 192.168.1.5 --port 3333 --delay 700
  */
+
+ 
