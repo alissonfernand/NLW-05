@@ -44,7 +44,7 @@ Technologies that I used to develop this mobile client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/alissonfernand/coffeehub && cd coffeehub
+$ git clone https://github.com/alissonfernand/NLW-05 && cd plantmanager
 ```
 
 **Follow the steps below**
