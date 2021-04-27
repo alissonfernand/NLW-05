@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Layout" src="https://res.cloudinary.com/dbdv7jazw/image/upload/v1619560598/Capa_b2v7mc.png">
+  <img alt="Layout" src="https://res.cloudinary.com/dbdv7jazw/image/upload/v1619562377/Capa_e0rspw.png">
 </h1>
 
 <h3 align="center">  
