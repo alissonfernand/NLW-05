@@ -1,4 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <img alt="Layout" src="https://res.cloudinary.com/dbdv7jazw/image/upload/v1623412999/podcastr_capa_bxr4nl.png">
+</h1>
+
+<h3 align="center">  
+  React  Application for Podcastr
+</h3>
+
+<p align="center">
+  <a href="#%EF%B8%8F-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## 🧒🏽 About the project
+
+Podcastr is a project, carried out at NLW, which is an online event with lots of code, challenges, networking and a single objective: to take you to the next level.</br>
+CREDIT, click here: [Rocketseat](https://nextlevelweek.com/)</br>
+
+## 🚀 Technologies
+
+Technologies that I used to develop this mobile client
+
+- [React]
+- [Date Fns]
+- [Rc Slider]
+- [Axios]
+- [SASS]
+
 
 ## Getting Started
 
@@ -32,3 +60,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Made with 💜 by Alisson Fernandes 👋 [See my linkedin](https://www.linkedin.com/in/alisson-fernandes-417bb0137/)
